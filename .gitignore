@@ -9,3 +9,6 @@
 
 # rspec failure tracking
 .rspec_status
+
+# solving rulers-0.0.1 contains itself
+rulers-*.gem
