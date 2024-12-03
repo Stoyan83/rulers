@@ -37,6 +37,7 @@ Gem::Specification.new do |spec|
   # spec.add_dependency "example-gem", "~> 1.0"
 
   spec.add_runtime_dependency 'rack', '~> 3.1'
+  spec.add_runtime_dependency 'rackup', '~> 2.2'
 
   # For more information and examples about making a new gem, check out our
   # guide at: https://bundler.io/guides/creating_gem.html
