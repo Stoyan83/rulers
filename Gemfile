@@ -11,4 +11,6 @@ gem "rspec", "~> 3.0"
 
 gem 'rackup', '~> 2.2', '>= 2.2.1'
 
+gem 'webrick', '~> 1.9'
+
 gem "rubocop", "~> 1.21"
