@@ -4,13 +4,3 @@ source "https://rubygems.org"
 
 # Specify your gem's dependencies in rulers.gemspec
 gemspec
-
-gem "rake", "~> 13.0"
-
-gem "rspec", "~> 3.0"
-
-gem 'rackup', '~> 2.2', '>= 2.2.1'
-
-gem 'webrick', '~> 1.9'
-
-gem "rubocop", "~> 1.21"
